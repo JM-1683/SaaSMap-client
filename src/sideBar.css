@@ -1,0 +1,28 @@
+.Container {
+    background-color: rgb(221, 221, 221);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-left: 3px black solid;
+    padding-left: .5vw;
+    padding-right: .5vw;
+    height: 100vh;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto Slab', serif;
+    border-bottom: 1px  rgb(34, 34, 34) solid;
+    padding-bottom: 2vh;
+    border-width: 100%;
+    text-align: center;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Numans', sans-serif;
+    font-weight: bold;
+    font-size: medium;
+}
